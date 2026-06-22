@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-Competition-20BEFF?logo=kaggle&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Unsupervised-7C5CFF) ![Clustering](https://img.shields.io/badge/Clustering-3%20Clusters-orange) ![Signal Processing](https://img.shields.io/badge/Signal%20Processing-Scintillation%20Detector-green) ![PSD](https://img.shields.io/badge/Features-PSD%20Analysis-purple) ![Models](https://img.shields.io/badge/Models-KMeans%20%7C%20GMM%20%7C%20Birch-lightgrey) ![Status](https://img.shields.io/badge/Status-Session%20Project-blue)
+
 # Signal Types Classification
 
 Данный проект посвящён задаче автоматической кластеризации сигналов, полученных со сцинтилляционного детектора. Основная цель работы — разделить набор из 23 479 сигналов на три группы с помощью методов машинного обучения без учителя.
